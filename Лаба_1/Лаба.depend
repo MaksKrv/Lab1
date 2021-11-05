@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636019024 source:d:\codeblock файли\Лаба\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1636019024 source:d:\codeblock файли\Лаба_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
